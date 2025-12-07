@@ -1,5 +1,5 @@
 # 📘 Trabalho de Conclusão de Curso (TCC)
-**Avaliação de Técnicas de Gamificação em um Curso MOOC Híbrido de Pensamento Computacional**
+**Impactos da Gamificação na Motivação e Desempenho em Curso MOOC Híbrido de Pensamento Computacional**
 
 Este repositório reúne os apêndices e anexos do Trabalho de Conclusão de Curso apresentado ao **Bacharelado em Ciência da Computação** do **Instituto Federal do Ceará (IFCE) Campus Tianguá**.
 
